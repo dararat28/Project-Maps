@@ -121,7 +121,7 @@ const WORLD = {"type":"FeatureCollection","features":[{"type":"Feature","geometr
 const CATEGORIES = ["Facade","Lighting","MEP / Mechanical","Infrastructure"];
 
 const PROJECTS = [
-  { name:"Khon Kaen Hospital", city:"Khon Kaen", country:"Thailand", scope:"HVAC", cat:"MEP / Mechanical", software:["Revit"], lat:16.429302, lng:102.849244, image:"Khonkan Hospital.jpg", portfolio:"https://canva.link/l7b6lebbkr998mb" },
+  { name:"Khon Kaen Hospital", city:"Khon Kaen", country:"Thailand", scope:"HVAC", cat:"MEP / Mechanical", software:["Revit"], lat:16.429302, lng:102.849244, image:"https://public.flourish.studio/uploads/3696907/f3adf1a6-ed57-4685-ac23-a133d7d3e281.jpg", portfolio:"https://canva.link/l7b6lebbkr998mb" },
   { name:"Sugar Factory", city:"Sakon Nakhon", country:"Thailand", scope:"Mechanical", cat:"MEP / Mechanical", software:["Revit"], lat:17.371302, lng:104.095714, image:"images/Sakhon Nakhon sugar factory.jpg", portfolio:"https://canva.link/bwkf6hsv7fyahk5" },
   { name:"S-OASIS", city:"Bangkok", country:"Thailand", scope:"Facade Work", cat:"Facade", software:["Revit"], lat:13.807564, lng:100.599423, image:"images/S-OASIS.jpg", portfolio:"https://canva.link/288xsm3zm1nu0sc" },
   { name:"Toyota Building Renovation", city:"Bangkok", country:"Thailand", scope:"Facade Work", cat:"Facade", software:["Revit"], lat:13.668412, lng:100.637309, image:"images/Toyota.jpg", portfolio:"https://canva.link/n74m1g2shwvn8sa" },
